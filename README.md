@@ -40,6 +40,7 @@ For a list of free hacking books available for download, go [here](https://githu
     - [General](#general-2)
 - [OS](#os)
     - [Online resources](#online-resources)
+- [Hardware / IoT](#hardware--iot)
 - [Post exploitation](#post-exploitation)
     - [tools](#tools-6)
 - [ETC](#etc)
@@ -328,6 +329,11 @@ For a list of free hacking books available for download, go [here](https://githu
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 * [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
+
+# Hardware / IoT
+
+ * [Vessel Hacking Playbook](https://vessel.hackingplaybook.com) - Community-sourced playbook for maritime cybersecurity, by practitioners for practitioners. CC BY-SA 4.0.
+ * [IoT Hacking Playbook](https://iot.hackingplaybook.com) - Community-sourced playbook for hardware and IoT hacking, by practitioners for practitioners. CC BY-SA 4.0.
 
 # ETC
 
